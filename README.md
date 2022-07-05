@@ -1,0 +1,1 @@
+This is FLTK text editor.
